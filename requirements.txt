@@ -1,0 +1,3 @@
+# Aplikacja Przypomnień o Lekach - Zależności
+# Wszystkie potrzebne biblioteki są wbudowane w Python (tkinter)
+# Brak dodatkowych zależności zewnętrznych 

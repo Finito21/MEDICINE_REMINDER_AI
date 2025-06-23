@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Paracetamol",
+    "dosage": "500 mg, 1 tabletka",
+    "frequency": "Codziennie",
+    "time": "08:00",
+    "added_date": "2024-06-01T08:00:00",
+    "last_taken": "Brak danych"
+  },
+  {
+    "name": "Ibuprofen",
+    "dosage": "200 mg, 1 tabletka",
+    "frequency": "Co 8 godzin",
+    "time": "14:00",
+    "added_date": "2024-06-01T14:00:00",
+    "last_taken": "Brak danych"
+  },
+  {
+    "name": "Aspiryna",
+    "dosage": "100 mg, 1 tabletka",
+    "frequency": "Codziennie",
+    "time": "20:00",
+    "added_date": "2024-06-01T20:00:00",
+    "last_taken": "Brak danych"
+  }
+]
